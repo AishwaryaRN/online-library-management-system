@@ -1,2 +1,9 @@
 # online-library-management-system
- Mini project using PHP and MySQL
+A mini project developed using PHP and MySQL to manage book records, issue/return system, and user registration.
+
+## Technologies Used
+- PHP
+- MySQL
+- HTML/CSS
+
+---
